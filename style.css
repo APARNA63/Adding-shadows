@@ -1,0 +1,12 @@
+h1{
+    width: 400px;
+    height: 400px;
+    text-shadow: 3px 4px 5PX hotpink ;
+    background-color: rgb(187, 216, 60);
+    box-shadow: 2px 3px 2px blue;
+    border-radius: 20px;
+    text-align: center;
+    margin-left: 50px;
+    padding-top: 70px;
+    box-sizing: border-box;
+}
